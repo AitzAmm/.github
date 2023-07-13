@@ -25,4 +25,4 @@ AitzAmm ensures the following standards:
 SR.4 of the basic standard rules in B-Consortium will not be taken in the basic standard rules of AitzAmm.
 
 ### Relations to other Branches of B Consortium
-AitzAmm will not use any tool developed by NeuroStol Publishing, AitSad, B Consortium Central, Terminal Patriotism or any exclusive branch given member to the consortium. However, external tools and tools from any future non exclusive joining branch shall be utilized
+AitzAmm will not use any tool developed by NeuroStol Publishing, AitSad, B Consortium Central, Terminal Patriotism or any exclusive branch given member to the consortium. However, external tools and tools from any future non exclusive joining branch shall be utilized and external libraries shall be used except of those from AitSad.
