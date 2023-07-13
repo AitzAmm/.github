@@ -20,7 +20,7 @@ AitzAmm ensures the following standards:
 | 1. | AitzAmm focuses on developing libraries, command-line interfaces (CLIs), and interfaces without relying on graphical interfaces. | :heavy_check_mark: |
 | 2. | AitzAmm does not associate itself with any means of making money. It upholds the philosophy of promoting philanthropy and provides freedom to use its products. | :heavy_check_mark: |
 | 3. | AitzAmm is comfortable to collaborate with unassociated entities to create joint projects. We welcomes issues, comments, PRs, and suggestions  for improvement from others unlike B-Consortium. This rule ensures that all external copyrights are respected while the consortium remains committed to its philanthropic mission. | :heavy_check_mark: |
-| 4. | AitzAmm strictly determines whether a tool or project benefits humanity or not. It disallows the use or development of harmful tools or cyber weapons. Any such tools from the predecessor, BS Consortium, are classified as property of AitzAmm. Since its formation, AitzAmm refrains from engaging in any further cyber weapon development. | :heavy_check_mark: |
+| 4. | AitzAmm strictly determines whether a tool or project benefits humanity or not. It disallows the use or development of harmful tools or cyber weapons. Any such tools from the predecessor, BS Consortium, are classified as property of B Consortium and AitzAmm does not hold it. Since its formation, AitzAmm refrains from engaging in any cyber weapon development. | :heavy_check_mark: |
 
 SR.4 of the basic standard rules in B-Consortium will not be taken in the basic standard rules of AitzAmm.
 
