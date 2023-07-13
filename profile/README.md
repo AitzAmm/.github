@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://github.com/B-Consortium/static/blob/main/.Github/giphy.gif" height=55> AitzAmm <img src="https://github.com/B-Consortium/static/blob/main/.Github/woman_raising_hand_1024.gif" height=35></h1>
+<h1 align=center> AitzAmm </h1>
 
 AitzAmm is a branch of the Broke Consortium, also known as the Research, Provisions, Successors, and the Member of the Broke Consortium or the Broke Consortium of Mathematical Research. It operates as an open-source, unregistered not-for-profit research organization focused on computational and non-trivial mathematical fields.
 
